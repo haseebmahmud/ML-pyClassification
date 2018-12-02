@@ -1,2 +1,2 @@
 # ML-pyClassification
-ML Classifications
+ML Classifications methodologies: Logistic, K-Nearest neighbour, Random forrest, SVM
